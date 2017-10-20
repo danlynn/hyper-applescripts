@@ -19,7 +19,6 @@ Opens a new Hyper terminal window.  The default directory will be dictated by wh
 Opens a new Hyper terminal window/tab cd'd to the same directory as the currently front-most Finder window.  It is super useful to place this script app in the toolbar of your Finder windows.  To to this, open a Finder window then right-click on the window's toolbar and select 'Customize Toolbar...'.  You can then drag the hyper-open-dir-finder script to the toolbar.  Now, whenever you want to open a Hyper window/tab for the current folder, you can just click that icon.
 
 <img src="https://raw.githubusercontent.com/danlynn/hyper-applescripts/master/assets/CustomizeFinderWindow.png">
-
     </td>
   </tr>
   <tr>
