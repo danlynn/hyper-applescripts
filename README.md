@@ -24,7 +24,7 @@ Opens a new Hyper terminal window/tab cd'd to the same directory as the currentl
   <tr>
     <td nowrap style="font-size: 1.5em">hyper-open-dir-pathfinder<br/><img src="https://raw.githubusercontent.com/danlynn/hyper-applescripts/master/assets/hyper-open-dir-icon.png" width="100"></td>
     <td>
-Opens a new Hyper terminal window/tab cd'd to the same directory as the currently front-most <a href="https://cocoatech.com/#/">PathFinder</a> window.  It is super useful to place this script app in the toolbar of your Finder windows.  This can be accomplished in the same manner as with the hyper-open-dir-finder script above.
+Opens a new Hyper terminal window/tab cd'd to the same directory as the currently front-most <a href="https://cocoatech.com/#/">PathFinder</a> window.  When a folder is selected, it will open a Hyper terminal window/tab cd'd to the directory that you have selected.  It is super useful to place this script app in the toolbar of your Finder windows.  This can be accomplished in the same manner as with the hyper-open-dir-finder script above.
     </td>
   </tr>
 </table>
